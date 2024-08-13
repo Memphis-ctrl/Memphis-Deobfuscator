@@ -4,7 +4,7 @@
 
 ## 🚀 Instalação
 
-Você não precisa instalar nada adicional via `pip`. Basta garantir que você possui o python 3.0 ou superior instalado em sua máquina.
+Você não precisa instalar nada adicional via `pip`, basta garantir que você possui o python 3.0 ou superior.
 
 ## 👥 Créditos
 
