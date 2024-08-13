@@ -1,0 +1,2 @@
+# Memphis-Deobfuscator
+Batch Deobfuscator 
