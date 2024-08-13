@@ -1,10 +1,12 @@
-# Memphis-Deobfuscator
-Batch Deobfuscator, projeto feito em python.
+# 🕵️‍♂️ Memphis-Deobfuscator
 
- # Instalação
- - Não precisa de nenhuma instalação via ``pip``, mas certifique que você tem a versão do python superior a 3.0
+**Batch Deobfuscator** — Um projeto desenvolvido em Python, feito para desofuscar scripts Batch.
 
-# Créditos
-- Base (DissectMalware)
-- Interface e atualizações (Memphis)
+## 🚀 Instalação
 
+Você não precisa instalar nada adicional via `pip`. Basta garantir que você possui o python 3.0 ou superior instalado em sua máquina.
+
+## 👥 Créditos
+
+- **Base:** [DissectMalware](https://github.com/DissectMalware)
+- **Interface e atualizações:** Memphis
